@@ -59,10 +59,12 @@ Machine Learning, 2022
 
 #### CIS-Guard: Preemptive Defense Algorithm for Coverless Image Steganography Based on Adversarial Perturbation
 Laijin Meng, **Zhongjie Mi***, Qiang Xun, Xinghao Jiang, Tanfeng Sun, Shijie Hou
+
 ACM International Conference on Multimedia (ACM MM), 2026
 
 #### Low-Quality Deepfake Video Detection Model Targeting Compression-Degraded Spatiotemporal Inconsistencies
 **Zhongjie Mi**, Xinghao Jiang, Tanfeng Sun, Ke Xu, Qiang Xu, Laijin Meng
+
 International Conference on Intelligent Computing (ICIC), 2024 
 
 ## Backgrounds
